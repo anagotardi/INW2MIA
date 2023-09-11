@@ -1,4 +1,4 @@
-//conecar o mongodb na maquina (net start mongodb), conectar no cmd prompt ou no git bash
+//conectar o mongodb na maquina (net start mongodb), conectar no cmd prompt ou no git bash
 //link do endereço do mongodb:
 //mongodb://localhost:27017 
 
