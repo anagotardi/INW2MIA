@@ -10,8 +10,8 @@
   "author": "Ana Gotardi",
   "license": "ISC",
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "mongoose": "^7.5.0",
     "nodemon": "^3.0.1"
-    
   }
 }
